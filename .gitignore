@@ -1,0 +1,8 @@
+
+__pycache__/
+*.csv
+.env
+venv/
+chromedriver
+license.chromedriver
+selenium_backup.py
